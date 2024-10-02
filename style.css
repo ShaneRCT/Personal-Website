@@ -5,4 +5,26 @@ html {
 #profilepic {
   border-radius: 50%;
   height: 200px;
+  margin-top: 6px;
+}
+
+.heading {
+  background-color: #003049;
+  color: white;
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  display: inline-block;
+}
+
+.body-text {
+  display: inline-block;
+  margin-top: 124px;
+  background-color: #fdf0d5;
+  width: 100%;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  display: inline-block;
 }
