@@ -4,34 +4,34 @@ body {
 
 .avatar {
   vertical-align: middle;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
 }
 
 h1 {
   color: #fbfbfb;
-  font-size: 16pt;
+  font-size: 24pt;
   margin-bottom: 2px;
 }
 h2 {
   color: #c62e2e;
-  font-size: 11pt;
+  font-size: 12pt;
   margin-top: 0px;
 }
 
 p {
   color: #fbfbfb;
-  font-size: 11pt;
+  font-size: 12pt;
   padding-top: 6px;
 }
 
 div {
-  padding-top: 20px;
+  padding-top: 30px;
   padding-bottom: 20px;
   text-align: center;
   background-color: #201c1c;
-  width: 250px;
+  width: 350px;
   border-radius: 4%;
   margin: auto;
   margin-top: 150px;
@@ -39,7 +39,7 @@ div {
 
 button {
   background-color: #383434;
-  width: 200px; /* Set fixed width */
+  width: 300px; /* Set fixed width */
   height: 30px; /* Set fixed height */
   text-align: center;
   color: #fbfbfb;
